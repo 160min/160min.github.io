@@ -17,7 +17,6 @@ sass:
         url: "about"
       - title: Works
         url: "works"
-  baseurl: ""
   name: 김민수
   tagline: 리버스 엔지니어링 공부 중
   date_format: "%b %-d, %Y"
